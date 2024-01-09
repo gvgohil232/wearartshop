@@ -1,0 +1,18 @@
+.subHeaderContainer {
+  margin-top: 3rem;
+}
+.subHeaderContainer nav {
+  font-size: 14px;
+}
+.subHeaderContainer nav a:hover {
+  /* color: #F1543F; */
+  /* color: #FFD05B; */
+}
+@media screen and (max-width: 768px) {
+  .subHeaderContainer nav {
+    font-size: 11px;
+  }
+  .subHeaderContainer nav a{
+    margin: 0 10px;
+  }
+}

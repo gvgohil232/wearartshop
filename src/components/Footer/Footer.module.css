@@ -1,0 +1,7 @@
+.FooterContainer nav {
+    line-height: 30px;
+}
+.FooterContainer nav a:hover {
+  /* color: #f1543f; */
+  cursor: pointer;
+}
